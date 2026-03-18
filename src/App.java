@@ -5,8 +5,6 @@ public class App {
         // Isso foi feito para evitar usos conceitualmente incorretos de
         // atributos e métodos estáticos (será explicado na aula teórica
         // de revisão)
-
-        // Essa classe NÃO DEVE SER ALTERADA
        
         Principal principal = new Principal();
         principal.executar();
