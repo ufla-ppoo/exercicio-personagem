@@ -39,6 +39,9 @@ Neste passo, você deve então criar uma classe para representar personagens.
 - A classe deve ter métodos de acesso (_get_) que permitam acessar os valores dos três atributos.
 - Por enquanto a classe não deve ter nenhum outro método, apenas os métodos de acesso (_get_).
 
+A classe deve ser criada em um novo arquivo dentro da pasta `src` do projeto, 
+e o nome do arquivo deve ser o mesmo da classe criada (com extensão `.java`).
+
 Neste passo ainda não é possível testar o seu código no VS Code.
 
 - Mas seria bem interessante testá-lo usando o `JShell`, como mostrado em aula.
@@ -147,8 +150,9 @@ Depois, faça o commit e sincronize suas alterações.
 
 ## Passo 5 - Obtendo dados do usuário
 
-Altere a classe `Principal` de forma que o usuário escolha a ação a ser realizada
-pelo personagem.
+Altere a classe `Principal` de forma que o usuário escolha a ação a ser realizada pelo personagem.
+
+- ATENÇÃO: o código desenvolvido nos passos anteriores deve ser mantido.
 
 O funcionamento deve ser da seguinte forma:
 
